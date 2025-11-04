@@ -1,4 +1,4 @@
- Merge Time Ranges (Node.js Module)
+Merge Time Ranges (Node.js Module)
 
 A clean, modular Node.js solution that merges overlapping or nearly continuous time ranges within a given threshold (in milliseconds).
 
